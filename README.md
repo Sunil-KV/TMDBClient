@@ -14,7 +14,7 @@ I learnt from them.
 
 ##AppInfo
 
-This is simple Movie Database client App. It retrievies favorite movies, artists and tvshows from TMDB server and displays to user.
+This is a simple Movie Database client App. It retrieves favorite movies, artists and tvshows from TMDB server and displays to user.
 User will be able to update the data as and when required.
 
 ## Prerequisite
