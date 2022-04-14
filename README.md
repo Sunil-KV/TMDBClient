@@ -29,8 +29,8 @@ It enforces separation of concerns and dependency inversion, where higher and lo
 
 In this project, layers are seperated into 3 modules as below
 
-Presentation 
-Data
+Presentation, 
+Data,
 Domain
 
 #### Presentation
